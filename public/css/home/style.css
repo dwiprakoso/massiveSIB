@@ -1,0 +1,31 @@
+body {
+    background-color: #eeeeee;
+}
+nav{
+    background-color: #fff;
+    box-shadow: 2px 5px 30px #00000054;
+}
+header nav .navbar-nav .nav-item {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+header nav .navbar-nav .nav-item  a{
+    font-size: 20px;
+    color: #000;
+}
+.thumbnailMobil{
+    margin-top: 50px;
+}
+.rentalThumbnail{
+    text-align: center;
+    margin: 50px auto;
+}
+.rentalThumbnail h1{
+    margin-bottom: 30px;
+}
+.rentalThumbnail img{
+    margin-bottom: 30px;
+}
+.rentalThumbnail p{
+    margin-bottom: 30px;
+}
